@@ -21,7 +21,7 @@ body {
 
 @font-face {
   font-family: Gilroy;
-  src: url("./Gilroy Extra Bold/Reg.otf");
+  src: url("./Assets/Gilroy Extra Bold/Reg.otf");
 }
 
 ::selection {
